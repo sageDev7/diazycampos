@@ -66,7 +66,6 @@ section{padding:110px 0}
 #header.scrolled{background:rgba(17,17,19,.9);backdrop-filter:blur(10px);box-shadow:0 4px 24px rgba(0,0,0,.35);border-bottom:1px solid var(--line)}
 .hd-row{display:grid;grid-template-columns:auto 1fr auto;align-items:center;height:var(--header-h);gap:56px;max-width:1340px}
 .logo{display:flex;align-items:center;gap:14px}
-.logo-icon{height:58px;width:auto}
 .logo-word-img{height:41px;width:auto}
 .hd-nav{display:flex;justify-content:center;gap:32px}
 .hd-nav a{font-size:.82rem;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--gray-light);transition:color .2s}
